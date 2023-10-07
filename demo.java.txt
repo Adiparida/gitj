@@ -1,0 +1,8 @@
+public class Demo{
+
+public void demoprocess(){
+
+// logic to write the code
+
+}
+}
